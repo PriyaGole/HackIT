@@ -1,22 +1,22 @@
 # HackIT Approach
 
-### Problem 0
+## Problem 0
 After executing the code we get 2 errors.  
 Correcting both the errors i.e. changing the return type of main function to int and changing the data type of ved array to char.  
 Output: The answer of this challenge is output of "man" when run on the terminal, copy the exact output.  
 Flag: What manual page do you want?  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  For example, try 'man man'.
 
-### Problem 1
+## Problem 1
 Decoding the text using a caesar cipher decoder we get to the flag.  
 Falg : noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPUT
 
-### Problem 2
+## Problem 2
 The google search button input class = "gN089B"  
 ON runnig the second.py with "" as input, output: Gotcha! Here's your answer: fMN78alst  
 Flag: fMN78alst
 
-### Problem 3
+## Problem 3
 The password of the zipped file is: passowrd  
 On searching in the directory:  
 Command: $ grep -R "hackIT"  
